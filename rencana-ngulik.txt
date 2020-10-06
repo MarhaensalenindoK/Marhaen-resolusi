@@ -1,5 +1,6 @@
 Rencana ngulik Marhaen
 - Ngulik Laravel 5
-  *WPU
+  *Wikrama
 - Ngulik Laravel 7
+  *Wikrama
 - Ngulik CI 4
