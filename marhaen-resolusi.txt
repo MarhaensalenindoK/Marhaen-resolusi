@@ -3,3 +3,4 @@ Marhaen-resolusi
 - Memahami dunia perkerjaan untuk siap di dunia kerja
 - dapat meningkatkan skill pemograman
 - Koding minimal 4 jam sehari
+- Menguasai fullstack
